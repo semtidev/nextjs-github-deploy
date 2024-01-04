@@ -7,7 +7,7 @@ const nextConfig = {
       loader: 'akamai',
       path: '',
     },
-    assetPrefix: '',
+    assetPrefix: 'https://semtidev.github.io/nextjs-github-deploy/',
 };
 
 module.exports = nextConfig
